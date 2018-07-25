@@ -1,0 +1,19 @@
+{
+    "name": "remozhang/no-junhong",
+    "description": "get all of this week's tickets on monday!",
+    "authors": [
+        {
+            "name": "remozhang",
+            "email": "814895077@qq.com"
+        }
+    ],
+    "require": {
+        "owner888/phpspider": "^2.1",
+        "paquettg/php-html-parser": "^1.7"
+    },
+    "autoload": {
+        "psr-4": {
+            "src\\": "src/"
+        }
+    }
+}
