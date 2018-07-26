@@ -4,16 +4,18 @@ namespace src;
 
 use phpspider\core\requests;
 
+
 class SimulateLanding
 {
     public static function landing()
     {
         $login_url = "http://kc.zj.com/my/login.php";
+        $config = require_once('config.php');
 
         $params = array(
             'ref' => '',
-            'username' => 'zhanglei',
-            'password' => '123456',
+            'username' => $config['username'],
+            'password' => $config['password'],
             'loginsubmit' => '%BD%F8%C8%EB%B6%A9%B2%CD%D6%D0%D0%C4'
         );
 

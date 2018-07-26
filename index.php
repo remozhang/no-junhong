@@ -53,7 +53,6 @@ $spider->on_fetch_url = function ($url, $phpspider) {
 $spider->on_content_page = function ($page, $content, $phpspider)
 {
 
-    // FIXME 失败了 无法得知_client的参数
     $time = preg_match('/<input type="hidden" name="shop(\d+)" value="1833"/U', $content, $match);
     if ($time == '1') {
         preg_match('/<input type="hidden" name="_client" value="(.+)">/U', $content, $client);
@@ -65,9 +64,6 @@ $spider->on_content_page = function ($page, $content, $phpspider)
             'pid' => $match[1],
             'shop'. $match[1] => '1833'
         );
-
-
-//        file_put_contents('data/log/url.log', SimulateLanding::landing()."\n", 8);
 
         $response = requests::post('http://kc.zj.com/my/user_select_new.php', $params);
 
