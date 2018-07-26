@@ -4,8 +4,6 @@ require_once "vendor/autoload.php";
 
 use src\SimulateLanding;
 use phpspider\core\phpspider;
-use phpspider\core\selector;
-use phpspider\core\log;
 use phpspider\core\requests;
 
 /* Do NOT delete this comment */

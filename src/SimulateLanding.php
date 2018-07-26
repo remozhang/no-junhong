@@ -24,10 +24,5 @@ class SimulateLanding
         $cookies = requests::get_cookies('kc.zj.com');
 
         return $cookies['dc_auth'];
-
-//        $url = "http://kc.zj.com/my/user_select_new.php";
-//        $html = requests::get($url);
-//        echo $html;
-
     }
 }
