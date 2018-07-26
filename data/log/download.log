@@ -2482,3 +2482,77 @@ Input "php index.php stop" to quit. Start success.
 [36m2018-07-25 09:49:23 [debug] Success download page http://kc.zj.com/my/user_select_new.php?_client=GcuYzUC8dssIfIWFnN004b2sYpIsuMNWlPb845IAodflO36Jf3YxcGRzJBKBw4nsVOLfePMeK8iFOweJj9qZm2INQBUIwVMTT+Xs42axlAAjWQ in 0.028 s[0m
 [36m2018-07-25 09:49:23 [debug] task id: 1 Success process page http://kc.zj.com/my/user_select_new.php?_client=GcuYzUC8dssIfIWFnN004b2sYpIsuMNWlPb845IAodflO36Jf3YxcGRzJBKBw4nsVOLfePMeK8iFOweJj9qZm2INQBUIwVMTT+Xs42axlAAjWQ in 0 s[0m
 2018-07-25 09:49:23 [info] task id: 1 Spider running in 0d 0h 0m 1s
+[33m
+[ no-junhong Spider ] is started...
+
+  * PHPSpider Version: 2.1.5
+  * Documentation: https://doc.phpspider.org
+  * Task Number: 1
+
+Input "php index.php stop" to quit. Start success.
+[0m
+[36m2018-07-26 01:48:04 [debug] Find scan page: http://kc.zj.com/my/user_select_new.php[0m
+[36m2018-07-26 01:48:04 [debug] Success download page http://kc.zj.com/my/user_select_new.php in 0.151 s[0m
+[36m2018-07-26 01:48:04 [debug] Find content page: http://kc.zj.com/my/user_select_new.php?_client=GcuYzUC8dssIfIWFnN004b2sYpIsuMNWmPP+45IAodflO36Jf3YxcGRzJBKBw4nsVOLfePMeK8iFOweJj9qZm2INQBUIwVMTT+Xs42axlAAjWQ[0m
+[36m2018-07-26 01:48:04 [debug] Find content page: http://kc.zj.com/my/user_select_new.php?_client=GcuYzUC8dssIfIWFnN004b2sYpIsuMNWm/L675IAodflO36Jf3YxcGRzJBKBw4nsVOLfePMeK8iFOweJj9qZm2INQBUIwVMTT+Xs42axlAAjWQ[0m
+[36m2018-07-26 01:48:04 [debug] Find content page: http://kc.zj.com/my/user_select_new.php?_client=GcuYzUC8dssIfIWFnN004b2sYpIsuMNWmvD95ZIAodflO36Jf3YxcGRzJBKBw4nsVOLfePMeK8iFOweJj9qZm2INQBUIwVMTT+Xs42axlAAjWQ[0m
+[36m2018-07-26 01:48:04 [debug] Find content page: http://kc.zj.com/my/user_select_new.php?_client=GcuYzUC8dssIfIWFnN004b2sYpIsuMNWmvn54ZIAodflO36Jf3YxcGRzJBKBw4nsVOLfePMeK8iFOweJj9qZm2INQBUIwVMTT+Xs42axlAAjWQ[0m
+[36m2018-07-26 01:48:04 [debug] Find content page: http://kc.zj.com/my/user_select_new.php?_client=GcuYzUC8dssIfIWFnN004b2sYpIsuMNWlfj655IAodflO36Jf3YxcGRzJBKBw4nsVOLfePMeK8iFOweJj9qZm2INQBUIwVMTT+Xs42axlAAjWQ[0m
+[36m2018-07-26 01:48:04 [debug] Find content page: http://kc.zj.com/my/user_select_new.php?_client=GcuYzUC8dssIfIWFnN004b2sYpIsuMNWlPb845IAodflO36Jf3YxcGRzJBKBw4nsVOLfePMeK8iFOweJj9qZm2INQBUIwVMTT+Xs42axlAAjWQ[0m
+[36m2018-07-26 01:48:04 [debug] task id: 1 Success process page http://kc.zj.com/my/user_select_new.php in 0.059 s[0m
+2018-07-26 01:48:04 [info] task id: 1 Spider running in 0d 0h 0m 0s
+[36m2018-07-26 01:48:04 [debug] Success download page http://kc.zj.com/my/user_select_new.php?_client=GcuYzUC8dssIfIWFnN004b2sYpIsuMNWmPP+45IAodflO36Jf3YxcGRzJBKBw4nsVOLfePMeK8iFOweJj9qZm2INQBUIwVMTT+Xs42axlAAjWQ in 0.023 s[0m
+[36m2018-07-26 01:48:04 [debug] task id: 1 Success process page http://kc.zj.com/my/user_select_new.php?_client=GcuYzUC8dssIfIWFnN004b2sYpIsuMNWmPP+45IAodflO36Jf3YxcGRzJBKBw4nsVOLfePMeK8iFOweJj9qZm2INQBUIwVMTT+Xs42axlAAjWQ in 0 s[0m
+2018-07-26 01:48:04 [info] task id: 1 Spider running in 0d 0h 0m 0s
+[36m2018-07-26 01:48:04 [debug] Success download page http://kc.zj.com/my/user_select_new.php?_client=GcuYzUC8dssIfIWFnN004b2sYpIsuMNWm/L675IAodflO36Jf3YxcGRzJBKBw4nsVOLfePMeK8iFOweJj9qZm2INQBUIwVMTT+Xs42axlAAjWQ in 0.043 s[0m
+[36m2018-07-26 01:48:04 [debug] task id: 1 Success process page http://kc.zj.com/my/user_select_new.php?_client=GcuYzUC8dssIfIWFnN004b2sYpIsuMNWm/L675IAodflO36Jf3YxcGRzJBKBw4nsVOLfePMeK8iFOweJj9qZm2INQBUIwVMTT+Xs42axlAAjWQ in 0.063 s[0m
+2018-07-26 01:48:04 [info] task id: 1 Spider running in 0d 0h 0m 0s
+[36m2018-07-26 01:48:04 [debug] Success download page http://kc.zj.com/my/user_select_new.php?_client=GcuYzUC8dssIfIWFnN004b2sYpIsuMNWmvD95ZIAodflO36Jf3YxcGRzJBKBw4nsVOLfePMeK8iFOweJj9qZm2INQBUIwVMTT+Xs42axlAAjWQ in 0.028 s[0m
+[36m2018-07-26 01:48:04 [debug] task id: 1 Success process page http://kc.zj.com/my/user_select_new.php?_client=GcuYzUC8dssIfIWFnN004b2sYpIsuMNWmvD95ZIAodflO36Jf3YxcGRzJBKBw4nsVOLfePMeK8iFOweJj9qZm2INQBUIwVMTT+Xs42axlAAjWQ in 0.038 s[0m
+2018-07-26 01:48:04 [info] task id: 1 Spider running in 0d 0h 0m 0s
+[36m2018-07-26 01:48:05 [debug] Success download page http://kc.zj.com/my/user_select_new.php?_client=GcuYzUC8dssIfIWFnN004b2sYpIsuMNWmvn54ZIAodflO36Jf3YxcGRzJBKBw4nsVOLfePMeK8iFOweJj9qZm2INQBUIwVMTT+Xs42axlAAjWQ in 0.044 s[0m
+[36m2018-07-26 01:48:05 [debug] task id: 1 Success process page http://kc.zj.com/my/user_select_new.php?_client=GcuYzUC8dssIfIWFnN004b2sYpIsuMNWmvn54ZIAodflO36Jf3YxcGRzJBKBw4nsVOLfePMeK8iFOweJj9qZm2INQBUIwVMTT+Xs42axlAAjWQ in 0 s[0m
+2018-07-26 01:48:05 [info] task id: 1 Spider running in 0d 0h 0m 1s
+[36m2018-07-26 01:48:05 [debug] Success download page http://kc.zj.com/my/user_select_new.php?_client=GcuYzUC8dssIfIWFnN004b2sYpIsuMNWlfj655IAodflO36Jf3YxcGRzJBKBw4nsVOLfePMeK8iFOweJj9qZm2INQBUIwVMTT+Xs42axlAAjWQ in 0.029 s[0m
+[36m2018-07-26 01:48:05 [debug] task id: 1 Success process page http://kc.zj.com/my/user_select_new.php?_client=GcuYzUC8dssIfIWFnN004b2sYpIsuMNWlfj655IAodflO36Jf3YxcGRzJBKBw4nsVOLfePMeK8iFOweJj9qZm2INQBUIwVMTT+Xs42axlAAjWQ in 0 s[0m
+2018-07-26 01:48:05 [info] task id: 1 Spider running in 0d 0h 0m 1s
+[36m2018-07-26 01:48:05 [debug] Success download page http://kc.zj.com/my/user_select_new.php?_client=GcuYzUC8dssIfIWFnN004b2sYpIsuMNWlPb845IAodflO36Jf3YxcGRzJBKBw4nsVOLfePMeK8iFOweJj9qZm2INQBUIwVMTT+Xs42axlAAjWQ in 0.026 s[0m
+[36m2018-07-26 01:48:05 [debug] task id: 1 Success process page http://kc.zj.com/my/user_select_new.php?_client=GcuYzUC8dssIfIWFnN004b2sYpIsuMNWlPb845IAodflO36Jf3YxcGRzJBKBw4nsVOLfePMeK8iFOweJj9qZm2INQBUIwVMTT+Xs42axlAAjWQ in 0 s[0m
+2018-07-26 01:48:05 [info] task id: 1 Spider running in 0d 0h 0m 1s
+[33m
+[ no-junhong Spider ] is started...
+
+  * PHPSpider Version: 2.1.5
+  * Documentation: https://doc.phpspider.org
+  * Task Number: 1
+
+Input "php index.php stop" to quit. Start success.
+[0m
+[36m2018-07-26 01:48:55 [debug] Find scan page: http://kc.zj.com/my/user_select_new.php[0m
+[36m2018-07-26 01:48:56 [debug] Success download page http://kc.zj.com/my/user_select_new.php in 1.092 s[0m
+[36m2018-07-26 01:48:56 [debug] Find content page: http://kc.zj.com/my/user_select_new.php?_client=GcuYzUC8dssIfIWFnN004b2sYpIsuMNWmPP+45IAodflO36Jf3YxcGRzJBKBw4nsVOLfePMeK8iFOweJj9qZm2INQBUIwVMTT+Xs42axlAAjWQ[0m
+[36m2018-07-26 01:48:56 [debug] Find content page: http://kc.zj.com/my/user_select_new.php?_client=GcuYzUC8dssIfIWFnN004b2sYpIsuMNWm/L675IAodflO36Jf3YxcGRzJBKBw4nsVOLfePMeK8iFOweJj9qZm2INQBUIwVMTT+Xs42axlAAjWQ[0m
+[36m2018-07-26 01:48:56 [debug] Find content page: http://kc.zj.com/my/user_select_new.php?_client=GcuYzUC8dssIfIWFnN004b2sYpIsuMNWmvD95ZIAodflO36Jf3YxcGRzJBKBw4nsVOLfePMeK8iFOweJj9qZm2INQBUIwVMTT+Xs42axlAAjWQ[0m
+[36m2018-07-26 01:48:56 [debug] Find content page: http://kc.zj.com/my/user_select_new.php?_client=GcuYzUC8dssIfIWFnN004b2sYpIsuMNWmvn54ZIAodflO36Jf3YxcGRzJBKBw4nsVOLfePMeK8iFOweJj9qZm2INQBUIwVMTT+Xs42axlAAjWQ[0m
+[36m2018-07-26 01:48:56 [debug] Find content page: http://kc.zj.com/my/user_select_new.php?_client=GcuYzUC8dssIfIWFnN004b2sYpIsuMNWlfj655IAodflO36Jf3YxcGRzJBKBw4nsVOLfePMeK8iFOweJj9qZm2INQBUIwVMTT+Xs42axlAAjWQ[0m
+[36m2018-07-26 01:48:56 [debug] Find content page: http://kc.zj.com/my/user_select_new.php?_client=GcuYzUC8dssIfIWFnN004b2sYpIsuMNWlPb845IAodflO36Jf3YxcGRzJBKBw4nsVOLfePMeK8iFOweJj9qZm2INQBUIwVMTT+Xs42axlAAjWQ[0m
+[36m2018-07-26 01:48:56 [debug] task id: 1 Success process page http://kc.zj.com/my/user_select_new.php in 0.017 s[0m
+2018-07-26 01:48:56 [info] task id: 1 Spider running in 0d 0h 0m 1s
+[36m2018-07-26 01:48:56 [debug] Success download page http://kc.zj.com/my/user_select_new.php?_client=GcuYzUC8dssIfIWFnN004b2sYpIsuMNWmPP+45IAodflO36Jf3YxcGRzJBKBw4nsVOLfePMeK8iFOweJj9qZm2INQBUIwVMTT+Xs42axlAAjWQ in 0.074 s[0m
+[36m2018-07-26 01:48:56 [debug] task id: 1 Success process page http://kc.zj.com/my/user_select_new.php?_client=GcuYzUC8dssIfIWFnN004b2sYpIsuMNWmPP+45IAodflO36Jf3YxcGRzJBKBw4nsVOLfePMeK8iFOweJj9qZm2INQBUIwVMTT+Xs42axlAAjWQ in 0 s[0m
+2018-07-26 01:48:56 [info] task id: 1 Spider running in 0d 0h 0m 1s
+[36m2018-07-26 01:48:56 [debug] Success download page http://kc.zj.com/my/user_select_new.php?_client=GcuYzUC8dssIfIWFnN004b2sYpIsuMNWm/L675IAodflO36Jf3YxcGRzJBKBw4nsVOLfePMeK8iFOweJj9qZm2INQBUIwVMTT+Xs42axlAAjWQ in 0.083 s[0m
+[36m2018-07-26 01:48:56 [debug] task id: 1 Success process page http://kc.zj.com/my/user_select_new.php?_client=GcuYzUC8dssIfIWFnN004b2sYpIsuMNWm/L675IAodflO36Jf3YxcGRzJBKBw4nsVOLfePMeK8iFOweJj9qZm2INQBUIwVMTT+Xs42axlAAjWQ in 0.086 s[0m
+2018-07-26 01:48:56 [info] task id: 1 Spider running in 0d 0h 0m 1s
+[36m2018-07-26 01:48:56 [debug] Success download page http://kc.zj.com/my/user_select_new.php?_client=GcuYzUC8dssIfIWFnN004b2sYpIsuMNWmvD95ZIAodflO36Jf3YxcGRzJBKBw4nsVOLfePMeK8iFOweJj9qZm2INQBUIwVMTT+Xs42axlAAjWQ in 0.068 s[0m
+[36m2018-07-26 01:48:56 [debug] task id: 1 Success process page http://kc.zj.com/my/user_select_new.php?_client=GcuYzUC8dssIfIWFnN004b2sYpIsuMNWmvD95ZIAodflO36Jf3YxcGRzJBKBw4nsVOLfePMeK8iFOweJj9qZm2INQBUIwVMTT+Xs42axlAAjWQ in 0.034 s[0m
+2018-07-26 01:48:56 [info] task id: 1 Spider running in 0d 0h 0m 1s
+[36m2018-07-26 01:48:56 [debug] Success download page http://kc.zj.com/my/user_select_new.php?_client=GcuYzUC8dssIfIWFnN004b2sYpIsuMNWmvn54ZIAodflO36Jf3YxcGRzJBKBw4nsVOLfePMeK8iFOweJj9qZm2INQBUIwVMTT+Xs42axlAAjWQ in 0.034 s[0m
+[36m2018-07-26 01:48:56 [debug] task id: 1 Success process page http://kc.zj.com/my/user_select_new.php?_client=GcuYzUC8dssIfIWFnN004b2sYpIsuMNWmvn54ZIAodflO36Jf3YxcGRzJBKBw4nsVOLfePMeK8iFOweJj9qZm2INQBUIwVMTT+Xs42axlAAjWQ in 0 s[0m
+2018-07-26 01:48:56 [info] task id: 1 Spider running in 0d 0h 0m 1s
+[36m2018-07-26 01:48:57 [debug] Success download page http://kc.zj.com/my/user_select_new.php?_client=GcuYzUC8dssIfIWFnN004b2sYpIsuMNWlfj655IAodflO36Jf3YxcGRzJBKBw4nsVOLfePMeK8iFOweJj9qZm2INQBUIwVMTT+Xs42axlAAjWQ in 0.046 s[0m
+[36m2018-07-26 01:48:57 [debug] task id: 1 Success process page http://kc.zj.com/my/user_select_new.php?_client=GcuYzUC8dssIfIWFnN004b2sYpIsuMNWlfj655IAodflO36Jf3YxcGRzJBKBw4nsVOLfePMeK8iFOweJj9qZm2INQBUIwVMTT+Xs42axlAAjWQ in 0 s[0m
+2018-07-26 01:48:57 [info] task id: 1 Spider running in 0d 0h 0m 2s
+[36m2018-07-26 01:48:57 [debug] Success download page http://kc.zj.com/my/user_select_new.php?_client=GcuYzUC8dssIfIWFnN004b2sYpIsuMNWlPb845IAodflO36Jf3YxcGRzJBKBw4nsVOLfePMeK8iFOweJj9qZm2INQBUIwVMTT+Xs42axlAAjWQ in 0.072 s[0m
+[36m2018-07-26 01:48:57 [debug] task id: 1 Success process page http://kc.zj.com/my/user_select_new.php?_client=GcuYzUC8dssIfIWFnN004b2sYpIsuMNWlPb845IAodflO36Jf3YxcGRzJBKBw4nsVOLfePMeK8iFOweJj9qZm2INQBUIwVMTT+Xs42axlAAjWQ in 0 s[0m
+2018-07-26 01:48:57 [info] task id: 1 Spider running in 0d 0h 0m 2s

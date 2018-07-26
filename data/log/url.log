@@ -1,42 +1,436 @@
-432394324043241SsTdmSWjfd5AbJ2JmLEipOygdswutMRdz6H%2F7sNS5da1fXrLPjQkJyZ8eBeUx%2FWqNQotjEZyKM8SsTdmSWjfd5AbJ2JmLEipOygdswutMRdz6H%2F7sNS5da1fXrLPjQkJyZ8eBeUx%2FWqNQotjEZyKM8SsTdmSWjfd5AbJ2JmLEipOygdswutMRdz6H%2F7sNS5da1fXrLPjQkJyZ8eBeUx%2FWqNQotjEZyKM8Array
-Array
-Array
-Array
-Array
-Array
-SsTdmSWjfd5AbJ2JmLEipOygdswutMRdz6H%2F7sNS5da1fXrLPjQkJyZ8eBeUx%2FWqNQotjEZyKM8
-SsTdmSWjfd5AbJ2JmLEipOygdswutMRdz6H%2F7sNS5da1fXrLPjQkJyZ8eBeUx%2FWqNQotjEZyKM8
-SsTdmSWjfd5AbJ2JmLEipOygdswutMRdz6H%2F7sNS5da1fXrLPjQkJyZ8eBeUx%2FWqNQotjEZyKM8
-<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
-<html><head>
-<title>400 Bad Request</title>
-</head><body>
-<h1>Bad Request</h1>
-<p>Your browser sent a request that this server could not understand.<br />
-</p>
-</body></html>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>浙江快餐网-浙江都市网--老百姓的网</title>
+<link href="../css/kc20101209.css" rel="stylesheet" type="text/css" />
+<META HTTP-EQUIV="Expires" CONTENT="0">
+<meta name="keywords" content="浙江快餐网，浙江都市网">
+<meta name="description" content="浙江快餐网">
+<meta name="robots" content="index, follow">
+<meta name="googlebot" content="index, follow">
+<meta name="author" content="浙江都市网 " />
+<meta name="Copyright" content="浙江都市网版权所有" />
+<script>
+function show(){
+var curTime=new Date();
+document.getElementById("dater").innerHTML = curTime.toLocaleString() + " 星期"+'日一二三四五六'.charAt(curTime.getDay());
+setTimeout("show()",1000)
+}
+window.onload = function() {
+show();
+}
+</script>
+</head>
 
-<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
-<html><head>
-<title>400 Bad Request</title>
-</head><body>
-<h1>Bad Request</h1>
-<p>Your browser sent a request that this server could not understand.<br />
-</p>
-</body></html>
+<body>
+<!--top Start-->
+<div id="Main">
+  <div class="topbg">
+    <div style="float:left; padding-left:5px;"><a href="http://www.zj.com" target="_blank">浙江都市网 - 老百姓的网</a></div>
+    <div style="float:right; padding-right:5px;"><a href=" http://mail.zj.com" target="_blank">vip邮箱</a>| <a href=" http://www.hongniang.com" target="_blank">中国红娘</a>| <a href="http://auto.zj.com/" target="_blank">汽车</a> | <a href=" http://photo.zj.com" target="_blank">相册</a>| <a href=" http://www.jiankang.cn" target="_blank">中国健康</a>| <a href=" http://ent.zj.com" target="_blank">娱乐</a>| <a href=" http://www.bbs.zj.com" target="_blank">论坛</a>| <a href=" http://talk.zj.com" target="_blank">有话说</a></div>
+  </div>
+  <div>
+    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="34%"><a href="/"><img src="../images/kclogo.gif" alt="浙江快餐网" /></a></td>
+        <td width="66%" align="right"><div class="top2">
+            <ul>
+              <li><a href="/reg/register_new.php">企业订餐</a></li>
+              <li><a href="/reg/register_new.php?r=1">快餐公司</a></li>
+              <li><a href="/my/login_new.php">会员登陆</a></li>
+              <li><a href="/help">相关帮助</a></li>
+            </ul>
+          </div></td>
+      </tr>
+    </table>
+  </div>
+</div>
+<!--top End--> 
 
-<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
-<html><head>
-<title>400 Bad Request</title>
-</head><body>
-<h1>Bad Request</h1>
-<p>Your browser sent a request that this server could not understand.<br />
-</p>
-</body></html>
+<!--导航 Start-->
+<div id="Main2">
+  <div class="menwbg">
+    <table width="100%" height="38" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td align="center"><a href="/">首页</a></td>
+        <td align="center"><img src="../images/kcpic006.gif" width="2" height="13" /></td>
+        <td align="center"><a href="/list_kc_new.php">网上订餐</a></td>
+        <td align="center"><img src="../images/kcpic006.gif" width="2" height="13" /></td>
+        <td align="center"><a href="/list_company_new.php">快餐公司</a></td>
+        <td align="center"><img src="../images/kcpic006.gif" width="2" height="13" /></td>
+        <td align="center"><a href="http://www.jiankang.cn/info/list8_1_1.html">健康饮食</a></td>
+        <td align="center"><img src="../images/kcpic006.gif" width="2" height="13" /></td>
+        <td align="center"><a href="http://www.jiankang.cn/baby/">母婴健康</a></td>
+        <td align="center"><img src="../images/kcpic006.gif" width="2" height="13" /></td>
+        <td align="center"><a href="http://www.jiankang.cn/tcm/">中医生活馆</a></td>
+        <td width="320" align="right"><a href="http://www.jiankang.cn/ask/"><img src="../images/kcpic007.gif" border="0" /></a></td>
+        <td width="20" align="right">&nbsp;</td>
+      </tr>
+    </table>
+  </div>
+</div>
+<!--导航 End-->
+<div id="Main3">
+<div style=" margin-top:5px;"><img src="../images/kcpic023.gif" width="970" /></div>
+<div style="border-left:#86AB00 1px solid; border-right:#86AB00 1px solid;">
+<table width="100%" height="300" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    
+  
+	
+	
+	
+<META HTTP-EQUIV=REFRESH CONTENT='2;URL=user_select_new.php?_client=CIKCxUmqYd5De8zdxIt1o+7xKp8tq5QB3aG4o9dD4sHpLyLdanY2fSstdE3Ck8qhC+bffaEfLp2IaQndiNzJmDkMExJTz1ESTg'>
 
-参数无效
-参数无效
-参数无效
-参数无效
-参数无效
-参数无效
+<td width="48%" align="right"><img src="/images/sucess.gif" alt="操作成功" /><br />
+ <span class="font14 b">操作成功</span></td>
+ <td width="52%" class="zy51">系统自动返回,<a href="user_select_new.php?_client=CIKCxUmqYd5De8zdxIt1o+7xKp8tq5QB3aG4o9dD4sHpLyLdanY2fSstdE3Ck8qhC+bffaEfLp2IaQndiNzJmDkMExJTz1ESTg">如果不想等待请点击这里</a></td>
+
+	</tr>
+</table>
+</div>
+<div><img src="../images/kcpic024.gif" width="970" /></div>
+</div>
+
+<!--版权开始 -->
+<div class="foot"><a href="http://zj.com/info/webintro/" target="_blank">网站介绍</a> | <a href="http://zj.com/info/adservice/" target="_blank">广告服务</a>| <a href="http://zj.com/info/zhaopin/" target="_blank">招聘信息</a> | <a href="http://passport.zj.com/reg0.php" target="_blank">会员注册</a> | <a href="http://zj.com/info/contact/" target="_blank">联系我们</a> | <a href="http://zj.com/info/link" target="_blank">友情连接</a> | <a href="http://zj.com/info/privacy/" target="_blank">保护隐私权</a> | <a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://kc.zj.com');return(false)" href="javascript:void(0)">设为首页</a> | <a onclick="window.external.addFavorite('http://kc.zj.com','浙江快餐网');return(false)" href="javascript:void(0)">加入收藏</a><br />
+客服热线：0571-88228188 E-mail：kcservice@zj.com <br />
+浙江新中化网络有限公司 ◎版权所有 </div>
+</div>
+<script type="text/javascript" src="http://kc.zj.com/clickheat/js/clickheat.js"></script><noscript><p><a href="http://kc.zj.com">Traffic analysis</a></p></noscript><script type="text/javascript"><!--
+clickHeatSite = 'kc.zj.com';clickHeatGroup = encodeURIComponent(window.location.pathname+window.location.search);clickHeatServer = 'http://kc.zj.com/clickheat/click.php';initClickHeat(); //-->
+</script>
+</body>
+</html>
+<!--版权结束 -->
+</body>
+</html>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>浙江快餐网-浙江都市网--老百姓的网</title>
+<link href="../css/kc20101209.css" rel="stylesheet" type="text/css" />
+<META HTTP-EQUIV="Expires" CONTENT="0">
+<meta name="keywords" content="浙江快餐网，浙江都市网">
+<meta name="description" content="浙江快餐网">
+<meta name="robots" content="index, follow">
+<meta name="googlebot" content="index, follow">
+<meta name="author" content="浙江都市网 " />
+<meta name="Copyright" content="浙江都市网版权所有" />
+<script>
+function show(){
+var curTime=new Date();
+document.getElementById("dater").innerHTML = curTime.toLocaleString() + " 星期"+'日一二三四五六'.charAt(curTime.getDay());
+setTimeout("show()",1000)
+}
+window.onload = function() {
+show();
+}
+</script>
+</head>
+
+<body>
+<!--top Start-->
+<div id="Main">
+  <div class="topbg">
+    <div style="float:left; padding-left:5px;"><a href="http://www.zj.com" target="_blank">浙江都市网 - 老百姓的网</a></div>
+    <div style="float:right; padding-right:5px;"><a href=" http://mail.zj.com" target="_blank">vip邮箱</a>| <a href=" http://www.hongniang.com" target="_blank">中国红娘</a>| <a href="http://auto.zj.com/" target="_blank">汽车</a> | <a href=" http://photo.zj.com" target="_blank">相册</a>| <a href=" http://www.jiankang.cn" target="_blank">中国健康</a>| <a href=" http://ent.zj.com" target="_blank">娱乐</a>| <a href=" http://www.bbs.zj.com" target="_blank">论坛</a>| <a href=" http://talk.zj.com" target="_blank">有话说</a></div>
+  </div>
+  <div>
+    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="34%"><a href="/"><img src="../images/kclogo.gif" alt="浙江快餐网" /></a></td>
+        <td width="66%" align="right"><div class="top2">
+            <ul>
+              <li><a href="/reg/register_new.php">企业订餐</a></li>
+              <li><a href="/reg/register_new.php?r=1">快餐公司</a></li>
+              <li><a href="/my/login_new.php">会员登陆</a></li>
+              <li><a href="/help">相关帮助</a></li>
+            </ul>
+          </div></td>
+      </tr>
+    </table>
+  </div>
+</div>
+<!--top End--> 
+
+<!--导航 Start-->
+<div id="Main2">
+  <div class="menwbg">
+    <table width="100%" height="38" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td align="center"><a href="/">首页</a></td>
+        <td align="center"><img src="../images/kcpic006.gif" width="2" height="13" /></td>
+        <td align="center"><a href="/list_kc_new.php">网上订餐</a></td>
+        <td align="center"><img src="../images/kcpic006.gif" width="2" height="13" /></td>
+        <td align="center"><a href="/list_company_new.php">快餐公司</a></td>
+        <td align="center"><img src="../images/kcpic006.gif" width="2" height="13" /></td>
+        <td align="center"><a href="http://www.jiankang.cn/info/list8_1_1.html">健康饮食</a></td>
+        <td align="center"><img src="../images/kcpic006.gif" width="2" height="13" /></td>
+        <td align="center"><a href="http://www.jiankang.cn/baby/">母婴健康</a></td>
+        <td align="center"><img src="../images/kcpic006.gif" width="2" height="13" /></td>
+        <td align="center"><a href="http://www.jiankang.cn/tcm/">中医生活馆</a></td>
+        <td width="320" align="right"><a href="http://www.jiankang.cn/ask/"><img src="../images/kcpic007.gif" border="0" /></a></td>
+        <td width="20" align="right">&nbsp;</td>
+      </tr>
+    </table>
+  </div>
+</div>
+<!--导航 End-->
+<div id="Main3">
+<div style=" margin-top:5px;"><img src="../images/kcpic023.gif" width="970" /></div>
+<div style="border-left:#86AB00 1px solid; border-right:#86AB00 1px solid;">
+<table width="100%" height="300" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    
+  
+	
+	
+	
+<META HTTP-EQUIV=REFRESH CONTENT='2;URL=user_select_new.php?_client=CIKCxUmqYd5De8zdxIt1ouz2IJ8tq5QB3aG4o9dD4sHpLyLdanY2fSstdE3Ck8qhC+bffaEfLp2IaQndiNzJmDkMExJTz1ESTg'>
+
+<td width="48%" align="right"><img src="/images/sucess.gif" alt="操作成功" /><br />
+ <span class="font14 b">操作成功</span></td>
+ <td width="52%" class="zy51">系统自动返回,<a href="user_select_new.php?_client=CIKCxUmqYd5De8zdxIt1ouz2IJ8tq5QB3aG4o9dD4sHpLyLdanY2fSstdE3Ck8qhC+bffaEfLp2IaQndiNzJmDkMExJTz1ESTg">如果不想等待请点击这里</a></td>
+
+	</tr>
+</table>
+</div>
+<div><img src="../images/kcpic024.gif" width="970" /></div>
+</div>
+
+<!--版权开始 -->
+<div class="foot"><a href="http://zj.com/info/webintro/" target="_blank">网站介绍</a> | <a href="http://zj.com/info/adservice/" target="_blank">广告服务</a>| <a href="http://zj.com/info/zhaopin/" target="_blank">招聘信息</a> | <a href="http://passport.zj.com/reg0.php" target="_blank">会员注册</a> | <a href="http://zj.com/info/contact/" target="_blank">联系我们</a> | <a href="http://zj.com/info/link" target="_blank">友情连接</a> | <a href="http://zj.com/info/privacy/" target="_blank">保护隐私权</a> | <a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://kc.zj.com');return(false)" href="javascript:void(0)">设为首页</a> | <a onclick="window.external.addFavorite('http://kc.zj.com','浙江快餐网');return(false)" href="javascript:void(0)">加入收藏</a><br />
+客服热线：0571-88228188 E-mail：kcservice@zj.com <br />
+浙江新中化网络有限公司 ◎版权所有 </div>
+</div>
+<script type="text/javascript" src="http://kc.zj.com/clickheat/js/clickheat.js"></script><noscript><p><a href="http://kc.zj.com">Traffic analysis</a></p></noscript><script type="text/javascript"><!--
+clickHeatSite = 'kc.zj.com';clickHeatGroup = encodeURIComponent(window.location.pathname+window.location.search);clickHeatServer = 'http://kc.zj.com/clickheat/click.php';initClickHeat(); //-->
+</script>
+</body>
+</html>
+<!--版权结束 -->
+</body>
+</html>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>浙江快餐网-浙江都市网--老百姓的网</title>
+<link href="../css/kc20101209.css" rel="stylesheet" type="text/css" />
+<META HTTP-EQUIV="Expires" CONTENT="0">
+<meta name="keywords" content="浙江快餐网，浙江都市网">
+<meta name="description" content="浙江快餐网">
+<meta name="robots" content="index, follow">
+<meta name="googlebot" content="index, follow">
+<meta name="author" content="浙江都市网 " />
+<meta name="Copyright" content="浙江都市网版权所有" />
+<script>
+function show(){
+var curTime=new Date();
+document.getElementById("dater").innerHTML = curTime.toLocaleString() + " 星期"+'日一二三四五六'.charAt(curTime.getDay());
+setTimeout("show()",1000)
+}
+window.onload = function() {
+show();
+}
+</script>
+</head>
+
+<body>
+<!--top Start-->
+<div id="Main">
+  <div class="topbg">
+    <div style="float:left; padding-left:5px;"><a href="http://www.zj.com" target="_blank">浙江都市网 - 老百姓的网</a></div>
+    <div style="float:right; padding-right:5px;"><a href=" http://mail.zj.com" target="_blank">vip邮箱</a>| <a href=" http://www.hongniang.com" target="_blank">中国红娘</a>| <a href="http://auto.zj.com/" target="_blank">汽车</a> | <a href=" http://photo.zj.com" target="_blank">相册</a>| <a href=" http://www.jiankang.cn" target="_blank">中国健康</a>| <a href=" http://ent.zj.com" target="_blank">娱乐</a>| <a href=" http://www.bbs.zj.com" target="_blank">论坛</a>| <a href=" http://talk.zj.com" target="_blank">有话说</a></div>
+  </div>
+  <div>
+    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="34%"><a href="/"><img src="../images/kclogo.gif" alt="浙江快餐网" /></a></td>
+        <td width="66%" align="right"><div class="top2">
+            <ul>
+              <li><a href="/reg/register_new.php">企业订餐</a></li>
+              <li><a href="/reg/register_new.php?r=1">快餐公司</a></li>
+              <li><a href="/my/login_new.php">会员登陆</a></li>
+              <li><a href="/help">相关帮助</a></li>
+            </ul>
+          </div></td>
+      </tr>
+    </table>
+  </div>
+</div>
+<!--top End--> 
+
+<!--导航 Start-->
+<div id="Main2">
+  <div class="menwbg">
+    <table width="100%" height="38" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td align="center"><a href="/">首页</a></td>
+        <td align="center"><img src="../images/kcpic006.gif" width="2" height="13" /></td>
+        <td align="center"><a href="/list_kc_new.php">网上订餐</a></td>
+        <td align="center"><img src="../images/kcpic006.gif" width="2" height="13" /></td>
+        <td align="center"><a href="/list_company_new.php">快餐公司</a></td>
+        <td align="center"><img src="../images/kcpic006.gif" width="2" height="13" /></td>
+        <td align="center"><a href="http://www.jiankang.cn/info/list8_1_1.html">健康饮食</a></td>
+        <td align="center"><img src="../images/kcpic006.gif" width="2" height="13" /></td>
+        <td align="center"><a href="http://www.jiankang.cn/baby/">母婴健康</a></td>
+        <td align="center"><img src="../images/kcpic006.gif" width="2" height="13" /></td>
+        <td align="center"><a href="http://www.jiankang.cn/tcm/">中医生活馆</a></td>
+        <td width="320" align="right"><a href="http://www.jiankang.cn/ask/"><img src="../images/kcpic007.gif" border="0" /></a></td>
+        <td width="20" align="right">&nbsp;</td>
+      </tr>
+    </table>
+  </div>
+</div>
+<!--导航 End-->
+<div id="Main3">
+<div style=" margin-top:5px;"><img src="../images/kcpic023.gif" width="970" /></div>
+<div style="border-left:#86AB00 1px solid; border-right:#86AB00 1px solid;">
+<table width="100%" height="300" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    
+  
+	
+	
+	
+<META HTTP-EQUIV=REFRESH CONTENT='2;URL=user_select_new.php?_client=CIKCxUmqYd5De8zdxIt1o+7xKp8tq5QB3aG4o9dD4sHpLyLdanY2fSstdE3Ck8qhC+bffaEfLp2IaQndiNzJmDkMExJTz1ESTg'>
+
+<td width="48%" align="right"><img src="/images/sucess.gif" alt="操作成功" /><br />
+ <span class="font14 b">操作成功</span></td>
+ <td width="52%" class="zy51">系统自动返回,<a href="user_select_new.php?_client=CIKCxUmqYd5De8zdxIt1o+7xKp8tq5QB3aG4o9dD4sHpLyLdanY2fSstdE3Ck8qhC+bffaEfLp2IaQndiNzJmDkMExJTz1ESTg">如果不想等待请点击这里</a></td>
+
+	</tr>
+</table>
+</div>
+<div><img src="../images/kcpic024.gif" width="970" /></div>
+</div>
+
+<!--版权开始 -->
+<div class="foot"><a href="http://zj.com/info/webintro/" target="_blank">网站介绍</a> | <a href="http://zj.com/info/adservice/" target="_blank">广告服务</a>| <a href="http://zj.com/info/zhaopin/" target="_blank">招聘信息</a> | <a href="http://passport.zj.com/reg0.php" target="_blank">会员注册</a> | <a href="http://zj.com/info/contact/" target="_blank">联系我们</a> | <a href="http://zj.com/info/link" target="_blank">友情连接</a> | <a href="http://zj.com/info/privacy/" target="_blank">保护隐私权</a> | <a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://kc.zj.com');return(false)" href="javascript:void(0)">设为首页</a> | <a onclick="window.external.addFavorite('http://kc.zj.com','浙江快餐网');return(false)" href="javascript:void(0)">加入收藏</a><br />
+客服热线：0571-88228188 E-mail：kcservice@zj.com <br />
+浙江新中化网络有限公司 ◎版权所有 </div>
+</div>
+<script type="text/javascript" src="http://kc.zj.com/clickheat/js/clickheat.js"></script><noscript><p><a href="http://kc.zj.com">Traffic analysis</a></p></noscript><script type="text/javascript"><!--
+clickHeatSite = 'kc.zj.com';clickHeatGroup = encodeURIComponent(window.location.pathname+window.location.search);clickHeatServer = 'http://kc.zj.com/clickheat/click.php';initClickHeat(); //-->
+</script>
+</body>
+</html>
+<!--版权结束 -->
+</body>
+</html>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>浙江快餐网-浙江都市网--老百姓的网</title>
+<link href="../css/kc20101209.css" rel="stylesheet" type="text/css" />
+<META HTTP-EQUIV="Expires" CONTENT="0">
+<meta name="keywords" content="浙江快餐网，浙江都市网">
+<meta name="description" content="浙江快餐网">
+<meta name="robots" content="index, follow">
+<meta name="googlebot" content="index, follow">
+<meta name="author" content="浙江都市网 " />
+<meta name="Copyright" content="浙江都市网版权所有" />
+<script>
+function show(){
+var curTime=new Date();
+document.getElementById("dater").innerHTML = curTime.toLocaleString() + " 星期"+'日一二三四五六'.charAt(curTime.getDay());
+setTimeout("show()",1000)
+}
+window.onload = function() {
+show();
+}
+</script>
+</head>
+
+<body>
+<!--top Start-->
+<div id="Main">
+  <div class="topbg">
+    <div style="float:left; padding-left:5px;"><a href="http://www.zj.com" target="_blank">浙江都市网 - 老百姓的网</a></div>
+    <div style="float:right; padding-right:5px;"><a href=" http://mail.zj.com" target="_blank">vip邮箱</a>| <a href=" http://www.hongniang.com" target="_blank">中国红娘</a>| <a href="http://auto.zj.com/" target="_blank">汽车</a> | <a href=" http://photo.zj.com" target="_blank">相册</a>| <a href=" http://www.jiankang.cn" target="_blank">中国健康</a>| <a href=" http://ent.zj.com" target="_blank">娱乐</a>| <a href=" http://www.bbs.zj.com" target="_blank">论坛</a>| <a href=" http://talk.zj.com" target="_blank">有话说</a></div>
+  </div>
+  <div>
+    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="34%"><a href="/"><img src="../images/kclogo.gif" alt="浙江快餐网" /></a></td>
+        <td width="66%" align="right"><div class="top2">
+            <ul>
+              <li><a href="/reg/register_new.php">企业订餐</a></li>
+              <li><a href="/reg/register_new.php?r=1">快餐公司</a></li>
+              <li><a href="/my/login_new.php">会员登陆</a></li>
+              <li><a href="/help">相关帮助</a></li>
+            </ul>
+          </div></td>
+      </tr>
+    </table>
+  </div>
+</div>
+<!--top End--> 
+
+<!--导航 Start-->
+<div id="Main2">
+  <div class="menwbg">
+    <table width="100%" height="38" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td align="center"><a href="/">首页</a></td>
+        <td align="center"><img src="../images/kcpic006.gif" width="2" height="13" /></td>
+        <td align="center"><a href="/list_kc_new.php">网上订餐</a></td>
+        <td align="center"><img src="../images/kcpic006.gif" width="2" height="13" /></td>
+        <td align="center"><a href="/list_company_new.php">快餐公司</a></td>
+        <td align="center"><img src="../images/kcpic006.gif" width="2" height="13" /></td>
+        <td align="center"><a href="http://www.jiankang.cn/info/list8_1_1.html">健康饮食</a></td>
+        <td align="center"><img src="../images/kcpic006.gif" width="2" height="13" /></td>
+        <td align="center"><a href="http://www.jiankang.cn/baby/">母婴健康</a></td>
+        <td align="center"><img src="../images/kcpic006.gif" width="2" height="13" /></td>
+        <td align="center"><a href="http://www.jiankang.cn/tcm/">中医生活馆</a></td>
+        <td width="320" align="right"><a href="http://www.jiankang.cn/ask/"><img src="../images/kcpic007.gif" border="0" /></a></td>
+        <td width="20" align="right">&nbsp;</td>
+      </tr>
+    </table>
+  </div>
+</div>
+<!--导航 End-->
+<div id="Main3">
+<div style=" margin-top:5px;"><img src="../images/kcpic023.gif" width="970" /></div>
+<div style="border-left:#86AB00 1px solid; border-right:#86AB00 1px solid;">
+<table width="100%" height="300" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    
+  
+	
+	
+	
+<META HTTP-EQUIV=REFRESH CONTENT='2;URL=user_select_new.php?_client=CIKCxUmqYd5De8zdxIt1ouz2IJ8tq5QB3aG4o9dD4sHpLyLdanY2fSstdE3Ck8qhC+bffaEfLp2IaQndiNzJmDkMExJTz1ESTg'>
+
+<td width="48%" align="right"><img src="/images/sucess.gif" alt="操作成功" /><br />
+ <span class="font14 b">操作成功</span></td>
+ <td width="52%" class="zy51">系统自动返回,<a href="user_select_new.php?_client=CIKCxUmqYd5De8zdxIt1ouz2IJ8tq5QB3aG4o9dD4sHpLyLdanY2fSstdE3Ck8qhC+bffaEfLp2IaQndiNzJmDkMExJTz1ESTg">如果不想等待请点击这里</a></td>
+
+	</tr>
+</table>
+</div>
+<div><img src="../images/kcpic024.gif" width="970" /></div>
+</div>
+
+<!--版权开始 -->
+<div class="foot"><a href="http://zj.com/info/webintro/" target="_blank">网站介绍</a> | <a href="http://zj.com/info/adservice/" target="_blank">广告服务</a>| <a href="http://zj.com/info/zhaopin/" target="_blank">招聘信息</a> | <a href="http://passport.zj.com/reg0.php" target="_blank">会员注册</a> | <a href="http://zj.com/info/contact/" target="_blank">联系我们</a> | <a href="http://zj.com/info/link" target="_blank">友情连接</a> | <a href="http://zj.com/info/privacy/" target="_blank">保护隐私权</a> | <a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://kc.zj.com');return(false)" href="javascript:void(0)">设为首页</a> | <a onclick="window.external.addFavorite('http://kc.zj.com','浙江快餐网');return(false)" href="javascript:void(0)">加入收藏</a><br />
+客服热线：0571-88228188 E-mail：kcservice@zj.com <br />
+浙江新中化网络有限公司 ◎版权所有 </div>
+</div>
+<script type="text/javascript" src="http://kc.zj.com/clickheat/js/clickheat.js"></script><noscript><p><a href="http://kc.zj.com">Traffic analysis</a></p></noscript><script type="text/javascript"><!--
+clickHeatSite = 'kc.zj.com';clickHeatGroup = encodeURIComponent(window.location.pathname+window.location.search);clickHeatServer = 'http://kc.zj.com/clickheat/click.php';initClickHeat(); //-->
+</script>
+</body>
+</html>
+<!--版权结束 -->
+</body>
+</html>
+
