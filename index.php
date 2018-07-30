@@ -63,10 +63,7 @@ $spider->on_content_page = function ($page, $content, $phpspider)
             'shop'. $match[1] => '1833'
         );
 
-        $response = requests::post('http://kc.zj.com/my/user_select_new.php', $params);
-
-        file_put_contents('data/log/url.log', $response . "\n", 8);
-
+        requests::post('http://kc.zj.com/my/user_select_new.php', $params);
     }
 
     return false;
