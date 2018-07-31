@@ -32,6 +32,22 @@ $config = array(
 
 $spider = new phpspider($config);
 
+$spider->on_scan_page = function($page, $content, $phpspider) {
+    // 当前订餐页面月份
+    preg_match('/(\d{1,2})月份个人订餐/', $page['raw'], $month);
+    $month = $month['1'];
+
+    // 当前订餐页面月份为当前月份时， 将下个月的订餐页面作为抓取对象
+    if ($month == date('m')) {
+        if (preg_match('/href="user_select_new\.php\?_client=(.{98})">下月/U', $page['raw'], $matches)) {
+            $nextUrl = 'http://kc.zj.com/my/user_select_new.php?_client=' . $matches['1'];
+            file_put_contents('data/log/url.log', $nextUrl, FILE_APPEND);
+            $phpspider->add_scan_url($nextUrl);
+        }
+    }
+
+};
+
 $spider->on_fetch_url = function ($url, $phpspider) {
     if (preg_match('/http:\/\/kc\.zj\.com\/my\/\?_client=.{110}/', $url)) {
         $url = preg_replace('/(http:\/\/kc\.zj\.com\/my\/)/', 'http://kc.zj.com/my/user_select_new.php', $url);
